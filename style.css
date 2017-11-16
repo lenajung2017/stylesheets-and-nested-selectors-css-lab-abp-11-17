@@ -30,7 +30,7 @@ h3#header {
   float: left;
   font-size: 30px;
 }
-h3#header a {
+#header a {
   text-decoration: none;
   color: #868e96;
 }
